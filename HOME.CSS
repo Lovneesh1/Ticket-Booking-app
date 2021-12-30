@@ -1,0 +1,31 @@
+h1{text-align: center;
+    text-decoration: underline;
+    word-spacing: normal;
+color:red;
+}
+body{background-color: aqua;}
+a{border: 5px solid red;
+background-color: sandybrown;}
+
+.line{display: inline-block;}
+
+#box{width: 40px;
+height: 40px;
+background-color: gray;
+margin: 8px;
+}
+
+#box1{width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin: 20px;}
+
+    #box2{width: 40px;
+        height: 40px;
+        background-color: green;
+        margin: 20px;}
+
+        #box3{width: 40px;
+            height: 40px;
+            background-color: red;
+            margin: 20px;}
